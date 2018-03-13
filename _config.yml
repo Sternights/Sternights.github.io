@@ -18,12 +18,12 @@ sidebar-avatar: /img/post-sample-image.jpg      # use absolute URL, seeing it's 
 
 # SNS settings
 RSS: false
-# weibo_username:     Dramatic-
-zhihu_username:     sternights
+weibo_username:     Dramatic-
+zhihu_username:     Ster
 github_username:    Sternights
-facebook_username:  
-jianshu_username:   
-#twitter_username:   sternights
+#facebook_username:  
+#jianshu_username:   
+#twitter_username:
 
 
 
