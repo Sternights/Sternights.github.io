@@ -12,18 +12,18 @@ github_repo: "https://github.com/sternights/sternights.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/post-sample-image.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     Dramatic-
-zhihu_username:     sternights
+#weibo_username:     Dramatic-
+zhihu_username:     wang-wei-hao-43
 github_username:    Sternights
-facebook_username:  
-jianshu_username:   
-#twitter_username:   sternights
+#facebook_username:  
+#jianshu_username:   
+#twitter_username:
 
 
 
@@ -99,12 +99,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
         title: "Apple",
         href: "https://apple.com"
     },{
